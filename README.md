@@ -6,4 +6,4 @@ In this kaggle notebook I analyze some data relating to restaurants in Bangalore
 
 In this notebook l look at the dataset to see what are the main factors influencing a restaurant's score. There may be a positive correlation between variables, but a strong negative correlation is also greatly informative.
 
-As our dataset is large, we have many tools available to us. We walk through a few of them in this notebook.
+As our dataset is large, we have many tools available to us. We walk through a few of them in this notebook. The final step in our processing includes sentiment analysis using NLTK which proves to be a useful contributor to our model.
